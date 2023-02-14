@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YngdZKnXPAA450p9AIzhqfknBhnceHj813qMa7uCvYE=",
+  "Source": "CalculoCDB.API",
+  "BasePath": "_content/CalculoCDB.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
